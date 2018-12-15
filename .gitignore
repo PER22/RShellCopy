@@ -1,0 +1,12 @@
+test
+rshell
+newFile
+newFile1
+newFile2
+endFile
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+main
+lib/
